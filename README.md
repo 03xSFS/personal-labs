@@ -1,7 +1,7 @@
-# comptia-lab-portfolio
+# personal-labs
 Hands-on labs for Security+, Linux+, and Network+ preparation.
 
-# CompTIA Lab Portfolio
+#
 
 Hands-on labs completed while studying for CompTIA certifications.
 
